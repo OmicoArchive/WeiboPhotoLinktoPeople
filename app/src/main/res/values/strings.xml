@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weibo Photo Link to People</string>
+    <string name="action_about">About</string>
+    <string name="hint">Please input Weibo photo link</string>
+</resources>

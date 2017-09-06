@@ -1,0 +1,15 @@
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Ignore gradle files
+.gradle/
+build/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac system files
+.DS_Store
